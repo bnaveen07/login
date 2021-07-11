@@ -73,7 +73,7 @@ input[type="text"] {
   margin-bottom: 20px;
 }
 
-.signin-btn:link,
+.signin-btn,
 .signin-btn:visited {
   margin-top: 25px;
   padding: 20px auto;
